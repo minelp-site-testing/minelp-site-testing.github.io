@@ -4,6 +4,7 @@
 {% assign title = site.title %}
 {% endif %}
 
+<bat>
 <html>
 	<head>
 		<title>{{ title }}</title>
@@ -26,7 +27,7 @@
 		<link rel="stylesheet" href="{{ '/css/' | append: page.css | append: '.css' | relative_url }}">
 	</head>
 	
-	<header>
+	<body>
 		<menu>
 			{% for link in site.data.menu %}
 				{% if page.path == link.path %}
@@ -48,5 +49,6 @@
 			<span>My Little Pony: Friendship is Magic &copy; Hasbro, Inc.</span>
 		</footer>
 		
-	</header>
+	</body>
 </html>
+</bat>
