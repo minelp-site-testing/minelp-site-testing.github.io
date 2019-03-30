@@ -1,6 +1,6 @@
 // a key map of allowed keys
 var allowedKeys = {
-  18: 'e'
+  69: 'e'
 };
 
 // the 'official' Konami Code sequence
