@@ -38,5 +38,5 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.getElementById("intro").style.background = "url('../assets/easteregg/batbanneralt.svg) no-repeat center, url(../assets/home/intropattern.png), #222"
+  document.getElementById("intro").style.background = "url('../assets/easteregg/batbanneralt.svg%27) no-repeat center, url(../assets/home/intropattern.png), #222"
 }
