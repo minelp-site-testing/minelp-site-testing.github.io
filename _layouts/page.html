@@ -28,12 +28,6 @@
 	
 	<body>
 
-<!-- BatEEEE -->
-
-<script src="js/BatEEEE.js"></script>
-
-<!-- BatEEEE -->
-
 		<menu>
 			{% for link in site.data.menu %}
 				{% if page.path == link.path %}
@@ -43,7 +37,13 @@
 				{% endif %}
 			{% endfor %}
 		</menu>
-		
+
+<!-- BatEEEE -->
+
+<script src="js/BatEEEE.js"></script>
+
+<!-- BatEEEE -->		
+
 		<div id="content">
 			{{ content }}
 		</div>
