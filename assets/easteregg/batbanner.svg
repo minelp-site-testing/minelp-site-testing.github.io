@@ -12,7 +12,7 @@
 		<stop  offset="0.8878" style="stop-color:#44107D"/>
 		<stop  offset="1" style="stop-color:#490D7A"/>
 	</radialGradient>
-	<rect y="0.599" fill="url(#SVGID_1_)" stroke="#000000" stroke-miterlimit="10" width="1000" height="400"/>
+	<rect y="0.599" fill="url(#SVGID_1_)" width="1000" height="400"/>
 </g>
 <g id="Layer_2">
 	<g>
