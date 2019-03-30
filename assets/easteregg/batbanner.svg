@@ -5,14 +5,14 @@
 	 width="1000px" height="400px" viewBox="0 0 1000 400" enable-background="new 0 0 1000 400" xml:space="preserve">
 <g id="Layer_3">
 	
-		<radialGradient id="SVGID_1_" cx="292" cy="410.599" r="380.7887" gradientTransform="matrix(1 0 0 1 208 -210)" gradientUnits="userSpaceOnUse">
+		<radialGradient id="SVGID_1_" cx="292" cy="366.1074" r="380.7887" gradientTransform="matrix(1 0 0 1.2823 208 -269.4421)" gradientUnits="userSpaceOnUse">
 		<stop  offset="0" style="stop-color:#2B589F"/>
 		<stop  offset="0.1872" style="stop-color:#304F9C"/>
 		<stop  offset="0.4966" style="stop-color:#383692"/>
 		<stop  offset="0.8878" style="stop-color:#44107D"/>
 		<stop  offset="1" style="stop-color:#490D7A"/>
 	</radialGradient>
-	<rect y="0.599" fill="url(#SVGID_1_)" width="1000" height="400"/>
+	<rect y="-56.451" fill="url(#SVGID_1_)" width="1000" height="512.901"/>
 </g>
 <g id="Layer_2">
 	<g>
