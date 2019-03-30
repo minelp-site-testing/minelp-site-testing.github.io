@@ -38,5 +38,5 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.content.style.background = "url('https://i.imgur.com/z3ffwWH.png')"
+  document.div.style.background = "url('https://i.imgur.com/z3ffwWH.png')"
 }
