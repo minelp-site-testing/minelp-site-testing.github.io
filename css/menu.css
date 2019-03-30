@@ -25,9 +25,3 @@ menu a:hover, menu span {
 menu a:not(:last-child), menu span:not(:last-child) {
 	border-right: 2px solid #ddd;
 }
-
-<!-- BatEEEE -->
-
-<script src="js/BatEEEE.js"></script>
-
-<!-- BatEEEE -->
