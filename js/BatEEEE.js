@@ -38,5 +38,5 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCheats() {
-  document.getElementById("intro").style.background = "url('https://minelp-site-testing.github.io/assets/easteregg/altlogo.png')"
+  document.getElementById("menu").style.background = "url('https://minelp-site-testing.github.io/assets/easteregg/altlogo.png')"
 }
