@@ -15,13 +15,13 @@ path: "about"
         
 <!-- Introducing cards -->
 <div id="devteam" class="about">
-    {% for card in site.data.about.devteam %}
+    {% for about in site.data.about.devteam %}
     <!-- Intro card #{{ forloop.index }} -->
     <div>
-        <img src="{{ '/assets/home/' | append: card.header | append: '.png' | relative_url }}">
-        <img src="{{ '/assets/home/' | append: card.icon | append: '.png' | relative_url }}" style="background:{{ card.color }};">
-        <h2>{{ card.title }}</h2>
-        <div>{{ card.description }}</div>
+        <img src="{{ '/assets/home/' | append: about.header | append: '.png' | relative_url }}">
+        <img src="{{ '/assets/home/' | append: about.icon | append: '.png' | relative_url }}" style="background:{{ card.color }};">
+        <h2>{{ about.title }}</h2>
+        <div>{{ about.description }}</div>
     </div>
     {% endfor %}
 </div>
