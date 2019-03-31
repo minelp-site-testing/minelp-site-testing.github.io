@@ -1,5 +1,6 @@
 ---
 layout: "page"
+permalink: "/about/"
 css: "about"
 path: "about"
 ---
@@ -13,8 +14,8 @@ path: "about"
     </div>
         
 <!-- Introducing cards -->
-<div id="devteam" class="cards">
-    {% for card in site.data.cards.features %}
+<div id="devteam" class="about">
+    {% for card in site.data.about.devteam %}
     <!-- Intro card #{{ forloop.index }} -->
     <div>
         <img src="{{ '/assets/home/' | append: card.header | append: '.png' | relative_url }}">
