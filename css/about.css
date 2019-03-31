@@ -1,0 +1,43 @@
+@import 'fonts.css';
+@import 'menu.css';
+
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+	outline: none;
+}
+
+html {
+	background: whitesmoke;
+}
+
+
+#content {
+	flex-grow: 1;
+}
+
+footer {
+	background: url(../assets/pastelstripe.png) repeat-x top center / 50% 5px #eee;
+	color: #999;
+	font-size: 0.9em;
+	margin-top: 20px;
+	padding: 30px 50px;
+}
+footer a {
+	color: inherit;
+}
+footer span {
+	display: block;
+	text-align: center;
+}
+footer span:not(:last-child) {
+	margin-bottom: 5px;
+}
+
+hr {
+	background: url(../assets/pastelstripe.png) repeat-x top center / 50% 5px;
+	margin: 15px 30px;
+	
+	height: 5px;
+}
