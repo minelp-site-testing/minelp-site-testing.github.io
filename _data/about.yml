@@ -1,24 +1,24 @@
 devteam:
     - title: "Killjoy"
-      description: "Killjoy is our great leader who kills the joy but keeps things afloat."
+      description: "Killjoy is our dear leader who kills the joy but keeps things organized and afloat."
       color: "#ed4f4f"
       header: "mobs"
-      icon: "clienticon"
+      icon: "mobicon"
       
     - title: "Solly"
-      description: "Solly is the man with the plan! What plan? The plan to keep us afloat instead of in the water"
+      description: "Solly is that cool kid who keeps the mod updated and adds all those wonderful features you know and love! (Also added bats so he's pretty rad in my book! - Zombie)"
       color: "#ff861e"
       header: "mobs"
-      icon: "ponytypeicon"
+      icon: "mobicon"
       
     - title: "Rolling"
-      description: "Rolling.... is a bat. EEEE"
+      description: "Rolling.... is a bat. Oh and he's also our head of Public Relations and manages the official Discord server! EEEE"
       color: "#ffc400"
       header: "mobs"
-      icon: "customizeicon"
+      icon: "mobicon"
       
     - title: "Zombie"
-      description: "Tiki Bar Enthusiest, Theme Park Historian, Bat, and all around pretty cool dude. EEEEEEEEEE"
+      description: "The big cheese in charge of maintaining this wonderful website, also a huge Tiki Bar Enthusiast, Theme Park Fanatic, Bat, Duck, Raccoon, Bearded Pirate Man, and all around pretty cool dude. EEEEEEEEEE"
       color: "#3f72e5"
       header: "mobs"
       icon: "mobicon"
@@ -27,5 +27,5 @@ devteam:
       description: "He does the QA stuff and I don't interact with him that often - Zombie :("
       color: "#7f59c6"
       header: "mobs"
-      icon: "hdicon"
+      icon: "mobicon"
       
