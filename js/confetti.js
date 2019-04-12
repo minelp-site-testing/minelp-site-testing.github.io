@@ -3,7 +3,7 @@ COLORS = [[85,71,106], [174,61,99], [219,56,83], [244,92,68], [248,182,70]]
 PI_2 = 2*Math.PI
 
 
-canvas = document.getElementById "birthday"
+canvas = document.getElementById "world"
 context = canvas.getContext "2d"
 window.w = 0
 window.h = 0
