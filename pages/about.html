@@ -18,8 +18,8 @@ path: "about"
     {% for about in site.data.about.devteam %}
     <!-- Intro card #{{ forloop.index }} -->
     <div>
-        <img src="{{ '/assets/home/about/' | append: about.header | append: '.png' | relative_url }}">
-        <img src="{{ '/assets/home/about/' | append: about.icon | append: '.png' | relative_url }}" style="background:{{ card.color }};">
+        <img src="{{ '/assets/about/' | append: about.header | append: '.png' | relative_url }}">
+        <img src="{{ '/assets/about/' | append: about.icon | append: '.png' | relative_url }}" style="background:{{ card.color }};">
         <h2>{{ about.title }}</h2>
         <div>{{ about.description }}</div>
     </div>
