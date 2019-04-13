@@ -18,8 +18,8 @@ path: "about"
     {% for about in site.data.about.devteam %}
     <!-- Intro card #{{ forloop.index }} -->
     <div>
-        <img src="{{ '/assets/home/' | append: about.header | append: '.png' | relative_url }}">
-        <img src="{{ '/assets/home/' | append: about.icon | append: '.png' | relative_url }}" style="background:{{ card.color }};">
+        <img src="{{ '/assets/home/about/' | append: about.header | append: '.png' | relative_url }}">
+        <img src="{{ '/assets/home/about/' | append: about.icon | append: '.png' | relative_url }}" style="background:{{ card.color }};">
         <h2>{{ about.title }}</h2>
         <div>{{ about.description }}</div>
     </div>
@@ -28,8 +28,11 @@ path: "about"
 
 <hr>
 
-## About
-Mine Little Pony was created in 2011 by Verdana, and has grown since then with art and code contributed by many different people
+<!-- old Thanks information -->
+
+<h2>About</h2>
+
+<p>Mine Little Pony was created in 2011 by Verdana, and has grown since then with art and code contributed by many different people</p>
 
 ## Code
 - This mod was originally based on the [Player Model API](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1274437-1-1-0-player-model-api-2-1){:target="_blank"} by **Binkan Salaryman**. It's a great mod, and he's a great guy. Thanks Binkan Salaryman!

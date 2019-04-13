@@ -20,8 +20,8 @@ devteam:
     - title: "Zombie"
       description: "The big cheese in charge of maintaining this wonderful website, also a huge Tiki Bar Enthusiast, Theme Park Fanatic, Bat, Duck, Raccoon, Bearded Pirate Man, and all around pretty cool dude. EEEEEEEEEE"
       color: "#3f72e5"
-      header: "mobs"
-      icon: "mobicon"
+      header: "zombie"
+      icon: "baticon"
       
     - title: "Poly"
       description: "He does the QA stuff and I don't interact with him that often - Zombie :("
