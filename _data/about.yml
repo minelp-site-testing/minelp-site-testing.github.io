@@ -28,4 +28,11 @@ devteam:
       color: "#7f59c6"
       header: "poly"
       icon: "bugtest"
+
+    - title: "R9000"
+      description: "No one's quite sure what R9000 does... not even himself! All we know is that he does something, and he's a cool kid!"
+      color: "#7f59c6"
+      header: "r9000"
+      icon: "none"
+
       
