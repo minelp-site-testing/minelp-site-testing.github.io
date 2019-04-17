@@ -15,7 +15,7 @@ path: "about"
         
 <!-- Introducing cards -->
 <div id="devteam" class="cards">
-    {% for about in site.data.cards.features %}
+    {% for about in site.data.about.devteam %}
     <!-- Intro card #{{ forloop.index }} -->
     <div>
         <img src="{{ '/assets/about/' | append: card.header | append: '.png' | relative_url }}">
